@@ -39079,6 +39079,7 @@
       }
     },
     "Are you sure to add %@ g of carbs ?" : {
+      "extractionState" : "stale",
       "localizations" : {
         "bg" : {
           "stringUnit" : {
@@ -43299,6 +43300,9 @@
           }
         }
       }
+    },
+    "Backdated carbs (%lld g) included in COB calculation" : {
+
     },
     "Backfill Failed" : {
       "localizations" : {
@@ -82040,6 +82044,9 @@
         }
       }
     },
+    "Do you want to add %@ grams of carbs?" : {
+
+    },
     "Don’t Allow" : {
       "localizations" : {
         "bg" : {
@@ -113096,6 +113103,7 @@
       }
     },
     "How many carbs ?" : {
+      "extractionState" : "stale",
       "localizations" : {
         "bg" : {
           "stringUnit" : {
@@ -113200,6 +113208,9 @@
           }
         }
       }
+    },
+    "How many carbs do you want to add?" : {
+
     },
     "How Trio Manages Contact Images" : {
       "localizations" : {
