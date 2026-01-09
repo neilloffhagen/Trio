@@ -67790,6 +67790,12 @@
         }
       }
     },
+    "Color" : {
+
+    },
+    "Color Mode" : {
+
+    },
     "Color Scheme Preference" : {
       "localizations" : {
         "bg" : {
@@ -161942,6 +161948,9 @@
           }
         }
       }
+    },
+    "Monochrome" : {
+
     },
     "Month" : {
       "extractionState" : "manual",
