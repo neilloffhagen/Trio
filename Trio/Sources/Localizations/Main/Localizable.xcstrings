@@ -151864,6 +151864,65 @@
         }
       }
     },
+    "Max Allowed Glucose Rise for SMB" : {
+      "comment" : "Max Allowed Glucose Rise for SMB, formerly Max Delta-BG Threshold",
+      "localizations" : {
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maks tilladt glukose stigning for SMB"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Max Zulässiger Glukoseanstieg für SMB"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Augmentation max de glucose autorisée pour SMB"
+          }
+        },
+        "nb-NO" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maks tillatt blodsukkerstigning for SMB"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Max toegestane glucosestijging voor SMB"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maks dozwolony wzrost glikemii dla SMB"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Max tillåten glukosstigning för SMB"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tối đa Mức tăng đường huyết cho phép với SMB"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最大允許的 SMB 血糖上升量"
+          }
+        }
+      }
+    },
     "Max Basal Rate" : {
       "localizations" : {
         "bg" : {
@@ -155338,125 +155397,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "最大值"
-          }
-        }
-      }
-    },
-    "Max. Allowed Glucose Rise for SMB" : {
-      "comment" : "Max. Allowed Glucose Rise for SMB, formerly Max Delta-BG Threshold",
-      "localizations" : {
-        "bg" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Max. Allowed Glucose Rise for SMB"
-          }
-        },
-        "da" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Maks. tilladt glukose stigning for SMB"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Max. Zulässiger Glukoseanstieg für SMB"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Max. Allowed Glucose Rise for SMB"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Augmentation max. de glucose autorisée pour SMB"
-          }
-        },
-        "he" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Max. Allowed Glucose Rise for SMB"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Max. Allowed Glucose Rise for SMB"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Max. Allowed Glucose Rise for SMB"
-          }
-        },
-        "nb-NO" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Maks. tillatt blodsukkerstigning for SMB"
-          }
-        },
-        "nl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Max. toegestane glucosestijging voor SMB"
-          }
-        },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Maks. dozwolony wzrost glikemii dla SMB"
-          }
-        },
-        "pt-PT" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Max. Allowed Glucose Rise for SMB"
-          }
-        },
-        "ro" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Max. Allowed Glucose Rise for SMB"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Max. Allowed Glucose Rise for SMB"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Max. tillåten glukosstigning för SMB"
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Max. Allowed Glucose Rise for SMB"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "Max. Allowed Glucose Rise for SMB"
-          }
-        },
-        "vi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tối đa. Mức tăng đường huyết cho phép với SMB"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "最大允許的 SMB 血糖上升量"
           }
         }
       }
